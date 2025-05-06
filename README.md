@@ -30,7 +30,8 @@ Setiap kontributor bekerja melalui fitur branch dan pull request, lalu digabungk
 
 ### Bootstrap 
 
-Bootstrap adalah tai yang bulat
+Bootstrap adalah tai yang bulat  
+Selain bootstrap tai juga bau
 
 ---
 
