@@ -37,6 +37,9 @@ Selain bootstrap tai juga bau
 
 
 ### Git dan Github
+## Git
+git adalah gita
 
-github adalah itudah
+## Github  
+Github adalah itudah
 
