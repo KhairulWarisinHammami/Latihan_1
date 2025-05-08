@@ -30,21 +30,19 @@ Setiap kontributor bekerja melalui fitur branch dan pull request, lalu digabungk
 
 ### Bootstrap 
 
-Bootstrap adalah tai yang bulat  
-Selain bootstrap tai juga bau
+### Bootsrep
+
+Saya mencoba memasukkan gambar
+
+![Contoh Gambar](https://github.com/KhairulWarisinHammami/Latihan_1/blob/Bootstrap/Bootstrep/20250420_1628_Trippy%20Minimalist%20Art_simple_compose_01js9503g5fp3apv120t6arqbr.png?raw=true)
+
+### contoh box code 
+
+```python
+def hello():
+    print("Hello, world!")
 
 ---
 
-
-### Git dan Github
-## Git
-git adalah gita
-
-## Github  
-Github adalah itudah
-
-### Flexbox  
-Css Flexbox
-
-Selain css Flexbox ada juga css Grid
+=
 
