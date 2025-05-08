@@ -6,7 +6,6 @@ Saya mencoba memasukkan gambar
 
 ### contoh box code 
 
-'''python  
-def hello():
-    print("Hello, world!")  
-    '''
+'''def hello():
+    print("Hello, world!")'''
+
